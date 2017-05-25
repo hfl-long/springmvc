@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jsp-api">
+    <CLASSES>
+      <root url="jar://E:/apache-tomcat-8.0.35/lib/jsp-api.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.0.35/lib/servlet-api.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/springmvc-1/src" />
+    </SOURCES>
+  </library>
+</component>
